@@ -1,12 +1,12 @@
-# Express.js Application avec Performance Profiling
+# Application avec Performance Profiling
 
 ## Aperçu
 
-Cette application Express.js intègre le middleware Performance Profiler pour surveiller et optimiser les requêtes HTTP, particulièrement lors de l'interaction avec des APIs complexes telles que EBP Gestion commerciale.
+Cette application intègre le middleware Performance Profiler pour surveiller et optimiser les requêtes HTTP, particulièrement lors de l'interaction avec des APIs complexes telles que EBP Gestion commerciale.
 
-`app.js` est le fichier d'entrée de notre application Express, qui configure le serveur, définit les routes, gère les erreurs et initie le serveur pour écouter sur un port spécifié. Voici une vue d'ensemble de ses composants et de leur fonctionnement
+`app.js` est le fichier d'entrée de notre application, qui configure le serveur, définit les routes, gère les erreurs et initie le serveur pour écouter sur un port spécifié. Voici une vue d'ensemble de ses composants et de leur fonctionnement
 
-`app.js` est configuré pour démontrer et tester la manière dont le middleware de profilage de performance peut être intégré dans une application Express existante, en particulier pour les applications interagissant avec des API tierces comme Google Places API.
+`app.js` est configuré pour démontrer et tester la manière dont le middleware de profilage de performance peut être intégré dans une application existante, en particulier pour les applications interagissant avec des API tierces comme Google Places API.
 
 ## Fonctionnalités
 
