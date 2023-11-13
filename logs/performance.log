@@ -1,0 +1,116 @@
+La requête GET / a pris 12.55ms et est classée comme rapide
+La requête GET / a pris 11.14ms et est classée comme rapide
+La requête GET / a pris 4.26ms et est classée comme rapide
+La requête GET /stats a pris 8.81ms et est classée comme rapide
+La requête GET /stats a pris 8.60ms et est classée comme rapide
+La requête GET / a pris 1.28ms et est classée comme rapide
+La requête GET /stats a pris 5.97ms et est classée comme rapide
+La requête GET / a pris 1.02ms et est classée comme rapide
+La requête GET / a pris 10.31ms
+La requête GET / a pris 2.53ms
+La requête GET /cafes-marrakech a pris 1074.64ms et est classée comme lent. [2023-11-04T21:14:21.307Z - 2023-11-04T21:14:22.382Z]
+La requête GET /cafes-marrakech a pris 607.57ms et est classée comme moyen
+La requête GET /cafes-marrakech a pris 889.70ms et est classée comme moyen
+La requête GET /cafes-Gu%C3%A9liz a pris 17.56ms
+La requête GET /cafes-Gueliz a pris 3.03ms
+La requête GET /cafes-Gueliz a pris 1239.69ms et est classée comme lent. [2023-11-04T21:24:25.984Z - 2023-11-04T21:24:27.224Z]
+La requête GET /cafes-Gueliz a pris 3755.52ms et est classée comme lent. [2023-11-04T21:30:04.251Z - 2023-11-04T21:30:08.006Z]
+La requête GET /cafes-Gueliz a pris 897.24ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 673.09ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 645.65ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 864.07ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 858.18ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 640.72ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 866.53ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 860.46ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 655.92ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 645.89ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 638.38ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 630.68ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 625.84ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 605.32ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 602.12ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 5794.45ms et est classée comme lent. [2023-11-05T19:25:20.705Z - 2023-11-05T19:25:26.500Z]
+La requête GET /cafes-Gueliz a pris 5621.45ms et est classée comme lent. [2023-11-05T19:25:32.358Z - 2023-11-05T19:25:37.979Z]
+La requête GET /cafes-Gueliz a pris 5592.60ms et est classée comme lent. [2023-11-05T19:25:49.131Z - 2023-11-05T19:25:54.724Z]
+La requête GET /cafes-Gueliz a pris 5615.81ms et est classée comme lent. [2023-11-05T19:25:57.380Z - 2023-11-05T19:26:02.996Z]
+La requête GET /cafes-Gueliz a pris 5609.79ms et est classée comme lent. [2023-11-05T19:26:59.121Z - 2023-11-05T19:27:04.731Z]
+La requête GET /cafes-Gueliz a pris 5613.33ms et est classée comme lent. [2023-11-05T19:28:10.297Z - 2023-11-05T19:28:15.911Z]
+La requête GET /cafes-Gueliz a pris 5784.10ms et est classée comme lent. [2023-11-05T19:30:18.678Z - 2023-11-05T19:30:24.462Z]
+La requête GET /cafes-Gueliz a pris 5775.22ms et est classée comme lent. [2023-11-05T19:33:25.591Z - 2023-11-05T19:33:31.367Z]
+La requête GET /cafes-Gueliz a pris 5776.90ms et est classée comme lent. [2023-11-05T19:37:42.087Z - 2023-11-05T19:37:47.864Z]
+La requête GET /cafes-Gueliz a pris 5793.38ms et est classée comme lent. [2023-11-05T19:40:29.577Z - 2023-11-05T19:40:35.370Z]
+La requête GET /cafes-Gueliz a pris 5791.48ms et est classée comme lent. [2023-11-05T19:41:35.398Z - 2023-11-05T19:41:41.190Z]
+La requête GET /cafes-Gueliz a pris 5779.17ms et est classée comme lent. [2023-11-05T19:44:38.187Z - 2023-11-05T19:44:43.966Z]
+La requête GET /cafes-Gueliz a pris 5600.69ms et est classée comme lent. [2023-11-05T19:44:46.883Z - 2023-11-05T19:44:52.484Z]
+La requête GET / a pris 2.69ms
+La requête GET / a pris 16.24ms
+La requête GET /favicon.ico a pris 13.06ms
+La requête GET /cafes-Gueliz a pris 5788.04ms et est classée comme lent. [2023-11-05T19:49:17.771Z - 2023-11-05T19:49:23.559Z]
+La requête GET /cafes-Gueliz a pris 5785.87ms et est classée comme lent. [2023-11-05T19:51:00.949Z - 2023-11-05T19:51:06.735Z]
+La requête GET /cafes-Gueliz a pris 5776.19ms et est classée comme lent. [2023-11-05T19:56:51.735Z - 2023-11-05T19:56:57.512Z]
+La requête GET /cafes-Gueliz a pris 5621.51ms et est classée comme lent. [2023-11-05T19:58:32.321Z - 2023-11-05T19:58:37.942Z]
+La requête GET /cafes-Gueliz a pris 5592.52ms et est classée comme lent. [2023-11-05T20:04:51.628Z - 2023-11-05T20:04:57.220Z]
+La requête GET /cafes-Gueliz a pris 5606.54ms et est classée comme lent. [2023-11-05T20:07:07.662Z - 2023-11-05T20:07:13.269Z]
+La requête GET /cafes-Gueliz a pris 471.52ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 356.01ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 113.12ms et est classée comme moyen
+La requête GET / a pris 4.52ms
+La requête GET /favicon.ico a pris 3.23ms
+La requête GET /cafes-Gueliz a pris 347.15ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 241.94ms et est classée comme moyen
+La requête GET /cafes-Gueliz a pris 318.45ms et est classée comme moyen
+La requête GET / a pris 4.97ms
+La requête GET /cafes?scope=city a pris 2.14ms
+La requête GET /cafes a pris 0.86ms
+La requête GET /cafes?scope=neighborhood a pris 0.71ms
+La requête GET /cafes?scope=neighborhood a pris 0.61ms
+La requête GET /cafes a pris 433.88ms et est classée comme moyen
+La requête GET /cafes a pris 334.16ms et est classée comme moyen
+La requête GET /cafes?scope=city a pris 320.91ms et est classée comme moyen
+La requête GET /cafes?scope=city a pris 5.98ms
+La requête GET /cafes/gueliz a pris 406.02ms et est classée comme moyen
+La requête GET /cafes/city a pris 303.62ms et est classée comme moyen
+La requête GET /cafes/city a pris 6.43ms
+La requête GET /cafes/casa a pris 443.29ms et est classée comme moyen
+La requête GET /cafes/casa a pris 220.21ms et est classée comme moyen
+La requête GET /cafes/casa a pris 223.48ms et est classée comme moyen
+La requête GET /cafes/casa a pris 308.27ms et est classée comme moyen
+La requête GET /cafes/casa a pris 567.36ms et est classée comme moyen
+La requête GET /cafes/casa a pris 268.81ms et est classée comme moyen
+La requête GET /cafes/casa a pris 351.30ms et est classée comme moyen
+La requête GET /cafes/casa a pris 289.56ms et est classée comme moyen
+La requête GET /cafes/city a pris 0.93ms
+La requête GET /cafes/marrakech a pris 318.87ms et est classée comme moyen
+La requête GET /cafes/marrakech a pris 390.39ms et est classée comme moyen
+La requête GET /cafes/marrakech a pris 329.33ms et est classée comme moyen
+La requête GET /cafes/marrakech a pris 302.65ms et est classée comme moyen
+La requête GET /cafes/marrakech a pris 52.38ms
+La requête GET /cafes/gueliz a pris 134.06ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 156.78ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 333.12ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 53704.71ms et est classée comme lent. [2023-11-06T12:45:43.906Z - 2023-11-06T12:46:37.611Z]
+La requête GET /cafes/gueliz a pris 53538.18ms et est classée comme lent. [2023-11-06T12:48:31.171Z - 2023-11-06T12:49:24.709Z]
+La requête GET /cafes/gueliz a pris 51198.78ms et est classée comme lent. [2023-11-06T12:50:29.913Z - 2023-11-06T12:51:21.112Z]
+La requête GET /cafes/gueliz a pris 252.77ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 127.19ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 51.44ms
+La requête GET /cafes/gueliz a pris 9043.74ms et est classée comme lent. [2023-11-06T12:55:51.115Z - 2023-11-06T12:56:00.159Z]
+La requête GET /cafes/gueliz a pris 328.72ms et est classée comme moyen
+La requête GET /stats a pris 0.91ms
+La requête GET /cafes/gueliz a pris 420.04ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 383.12ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 328.18ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 353.09ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 372.60ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 308.11ms et est classée comme moyen
+La requête GET / a pris 4.38ms
+La requête GET /favicon.ico a pris 2.14ms
+La requête GET /cafes/gueliz a pris 242.95ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 203.22ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 334.38ms et est classée comme moyen
+La requête GET / a pris 4.22ms
+La requête GET /favicon.ico a pris 1.92ms
+La requête GET / a pris 0.87ms
+La requête GET /cafes/gueliz a pris 234.52ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 458.03ms et est classée comme moyen
