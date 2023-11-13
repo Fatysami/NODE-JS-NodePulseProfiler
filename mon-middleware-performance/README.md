@@ -1,6 +1,6 @@
-# Performance Profiler pour Express.js
+# Performance Profiler
 
-Le module Performance Profiler est un middleware Express.js conçu pour surveiller et enregistrer les performances des requêtes HTTP en mesurant le temps de réponse et en loguant des informations pertinentes.
+Le module Performance Profiler est un middleware conçu pour surveiller et enregistrer les performances des requêtes HTTP en mesurant le temps de réponse et en loguant des informations pertinentes.
 Il est spécialement conçu pour aider les développeurs à surveiller, enregistrer et optimiser les performances des requêtes HTTP. Il est particulièrement utile lors de l'interaction avec des APIs de gestion commerciale telles que EBP Gestion commerciale SAAS, où les réponses peuvent être volumineuses, complexes et potentiellement lentes.
 
 ## Description
