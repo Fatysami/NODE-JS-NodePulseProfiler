@@ -23,7 +23,7 @@ Ce module offre un aperçu des performances de votre application en temps réel.
 Clonez le dépôt et installez les dépendances nécessaires.
 
 ```   bash ``` 
-git clone https://yourrepositorylink.com
+git clone https://github.com/Fatysami/NodePulseProfiler.git
 cd your-project-name
 npm install
 
