@@ -4,7 +4,14 @@ const Datastore = require('nedb');
 const path = require('path');
 require('dotenv').config();
 
-const { timingMiddleware, stats } = require('./performanceProfiler');
+//NOTE IMPORTANTE!!!!!
+//Pour tester le middlware du projet 
+//const { timingMiddleware, stats } = require('./performanceProfiler');
+
+//Pour tester le middlware npm perfo-profiler**********************
+const { timingMiddleware, stats } = require('perfo-profiler');
+//*****************************************************************
+
 const app = express();
 
 // Créez et chargez la base de données NeDB

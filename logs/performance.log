@@ -114,3 +114,5 @@ La requête GET /favicon.ico a pris 1.92ms
 La requête GET / a pris 0.87ms
 La requête GET /cafes/gueliz a pris 234.52ms et est classée comme moyen
 La requête GET /cafes/gueliz a pris 458.03ms et est classée comme moyen
+La requête GET /cafes/gueliz a pris 402.46ms et est classée comme moyen
+La requête GET /favicon.ico a pris 2.00ms
