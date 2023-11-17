@@ -4,9 +4,9 @@
 
 Cette application intègre le middleware Performance Profiler pour surveiller et optimiser les requêtes HTTP, particulièrement lors de l'interaction avec des APIs complexes telles que EBP Gestion commerciale.
 
-`Lien Git du middleware ` https://github.com/Fatysami/NOD-JS-PERF-PROFILER.git
-`Lien npm ` https://www.npmjs.com/package/perfo-profiler
-`Installation ` npm i perfo-profiler
+- `Lien Git du middleware ` https://github.com/Fatysami/NOD-JS-PERF-PROFILER.git
+- `Lien npm ` https://www.npmjs.com/package/perfo-profiler
+- `Installation ` npm i perfo-profiler
 
 `app.js` est le fichier d'entrée de notre application, qui configure le serveur, définit les routes, gère les erreurs et initie le serveur pour écouter sur un port spécifié. Voici une vue d'ensemble de ses composants et de leur fonctionnement
 
