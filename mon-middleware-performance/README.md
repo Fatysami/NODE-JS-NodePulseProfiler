@@ -8,9 +8,9 @@ Cette application intègre le middleware Performance Profiler pour surveiller et
 - `Lien npm ` https://www.npmjs.com/package/perfo-profiler
 - `Installation ` npm i perfo-profiler
 
-`app.js` est le fichier d'entrée de notre application, qui configure le serveur, définit les routes, gère les erreurs et initie le serveur pour écouter sur un port spécifié. Voici une vue d'ensemble de ses composants et de leur fonctionnement
+- `app.js` est le fichier d'entrée de notre application, qui configure le serveur, définit les routes, gère les erreurs et initie le serveur pour écouter sur un port spécifié. Voici une vue d'ensemble de ses composants et de leur fonctionnement
 
-`app.js` est configuré pour démontrer et tester la manière dont le middleware de profilage de performance peut être intégré dans une application existante, en particulier pour les applications interagissant avec des API tierces comme Google Places API.
+- `app.js` est configuré pour démontrer et tester la manière dont le middleware de profilage de performance peut être intégré dans une application existante, en particulier pour les applications interagissant avec des API tierces comme Google Places API.
 
 ## Fonctionnalités
 
@@ -30,11 +30,11 @@ Cette application intègre le middleware Performance Profiler pour surveiller et
 ```   Configuration initiale ``` 
 --**Dépendances nécessaires** : Avant de démarrer l'application, assurez-vous que toutes les dépendances nécessaires sont installées. Exécutez npm install pour installer toutes les dépendances listées dans votre fichier package.json.
  
-`express`: Cadre d'application web pour Node.js, utilisé pour construire notre serveur API.
-`axios`: Une bibliothèque de promesses basée sur HTTP client pour effectuer des requêtes HTTP.
-`nedb`: Un système de base de données embarqué léger basé sur JavaScript.
-`path`: Un module de base de Node.js pour manipuler les chemins de fichiers.
-`dotenv`: Un module pour charger des variables d'environnement à partir d'un fichier .env.
+- `express`: Cadre d'application web pour Node.js, utilisé pour construire notre serveur API.
+- `axios`: Une bibliothèque de promesses basée sur HTTP client pour effectuer des requêtes HTTP.
+- `nedb`: Un système de base de données embarqué léger basé sur JavaScript.
+- `path`: Un module de base de Node.js pour manipuler les chemins de fichiers.
+- `dotenv`: Un module pour charger des variables d'environnement à partir d'un fichier .env.
 
 --**Variables d'environnement** : Configurez la variables d'environnement, notamment pour les clés API et autres configurations sensibles, pour sécuriser vos informations d'identification et permettre des changements faciles entre les environnements de développement et de production, je vous met ma clé active pour vous tests.
 
@@ -52,10 +52,10 @@ Gestion des routes
 
 -**Définition des routes**
 
-`Route d'accueil (/)`
+- `Route d'accueil (/)`
 Une requête GET simple et rapide qui renvoie un message de salutation. Cette route est utilisée comme un test de base pour s'assurer que l'API fonctionne.
 
-`Route de recherche de cafés (/cafes/:scope)`
+- `Route de recherche de cafés (/cafes/:scope)`
 -Une requête GET dynamique qui utilise Google Places API pour récupérer des informations sur les cafés basées sur le "scope" spécifié dans l'URL.
 -Le "scope" peut être soit gueliz pour une requête moyenne, soit marrakech pour une requête plus lente, simulant différentes charges et performances.
 -Cette route illustre comment notre middleware de profilage de performance peut être utilisé pour surveiller les appels API externes.
