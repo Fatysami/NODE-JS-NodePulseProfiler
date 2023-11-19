@@ -14,9 +14,10 @@ Cette application intègre le middleware Performance Profiler pour surveiller et
 
 ## Fonctionnalités
 
-- **Performance Profiling**: Mesure et journalise les performances de chaque requête API.
+- **Performance Profiling**: Mesure précise du temps de réponse des requêtes pour identifier les goulots d'étranglement de chaque requête API.
 - **Optimisation des Requêtes**: Aide à identifier et à réduire les délais de réponse des requêtes.
 - **Catégorisation automatique des requêtes** :  basée sur leur performance, offrant un diagnostic rapide des points faibles.
+- **Logs détaillés avec rotation quotidienne** : permettant une gestion efficace du stockage et une analyse approfondie des performances.
 
 ## Description de app.js
 
